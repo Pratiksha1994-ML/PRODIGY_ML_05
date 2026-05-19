@@ -76,6 +76,7 @@ PRODIGY_ML_05/
 │   └── streamlit_output4.png
 │
 ├── Food Images.zip
+├── test.jpg
 ├── train.py
 ├── predict.py
 ├── app.py
@@ -116,6 +117,26 @@ python predict.py
 ```bash
 streamlit run app.py
 ```
+
+---
+
+# 🖼 Sample Test Image
+
+A sample image named `test.jpg` is included in the project for prediction testing.
+
+Example usage:
+
+```bash
+python predict.py
+```
+
+The model uses:
+
+```python
+img_path = "test.jpg"
+```
+
+to predict the food item and estimate calorie content.
 
 ---
 
@@ -170,7 +191,7 @@ Only sample dataset images are uploaded to GitHub to reduce repository size.
 
 # 👩‍💻 Author
 
-Pratiksha C Uchil
+Pratiksha Uchil
 
 ---
 
