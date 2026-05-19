@@ -191,7 +191,7 @@ Only sample dataset images are uploaded to GitHub to reduce repository size.
 
 # 👩‍💻 Author
 
-Pratiksha Uchil
+Pratiksha C Uchil
 
 ---
 
